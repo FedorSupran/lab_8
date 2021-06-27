@@ -1,0 +1,5 @@
+﻿  SUPRAN_F_K_LAB_8.cpp
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_8\SUPRAN_F_K_LAB_8\SUPRAN_F_K_LAB_8.cpp(55,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_8\SUPRAN_F_K_LAB_8\SUPRAN_F_K_LAB_8.cpp(67,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_8\SUPRAN_F_K_LAB_8\SUPRAN_F_K_LAB_8.cpp(91,36): warning C4018: >=: несоответствие типов со знаком и без знака
+  SUPRAN_F_K_LAB_8.vcxproj -> D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_8\Debug\SUPRAN_F_K_LAB_8.exe
